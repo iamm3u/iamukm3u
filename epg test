@@ -8,4 +8,5 @@
   </channel>
   <channel id="mjh-bbc-two">
     <display-name>BBC 2</display-name>
-    
+     <lcn>1</lcn>
+    <icon src="https://t.ly/rzdKy"/>
