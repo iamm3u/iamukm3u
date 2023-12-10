@@ -1,0 +1,33 @@
+#!/bin/sh
+
+URL="https://raw.githubusercontent.com/iamm3u/iamukm3u/main/epg%20test"
+DESCRIPTION="UK epg grabber"
+VERSION="1.3"
+
+if [ $# -lt 1 ]; then
+    >&2 echo "Downloading $URL..."
+    curl -s -L "$URL" || wget -qO - "$URL" || >&2 echo "ERROR: Didn't follow my master's demands"
+    exit 0
+fi
+
+dflag=
+vflag=
+cflag=
+
+for a in "$@"; do
+  [ "$a" = "-d" -o "$a" = "--description"  ] && dflag=1
+  [ "$a" = "-v" -o "$a" = "--version"      ] && vflag=1
+  [ "$a" = "-c" -o "$a" = "--capabilities" ] && cflag=1
+done
+
+if [ -n "$dflag" ]; then
+  echo $DESCRIPTION
+fi
+
+if [ -n "$vflag" ]; then
+  echo $VERSION
+fi
+
+if [ -n "$cflag" ]; then
+  echo "baseline"
+fi
