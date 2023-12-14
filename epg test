@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv source-info-name="https://www.sky.com/tv-guide,https://www.freeview.co.uk/tv-guide,https://www.tvguide.co.uk">
-  <channel id="mjh-bbc-one">
+  <channel id="bbc-one">
     <display-name>BBC 1</display-name>
     <lcn>1</lcn>
     <icon src="https://t.ly/bNrO7"/>
   </channel>
-  <channel id="mjh-bbc-two">
+  <channel id="bbc-two">
     <display-name>BBC 2</display-name>
      <lcn>1</lcn>
     <icon src="https://t.ly/rzdKy"/>
