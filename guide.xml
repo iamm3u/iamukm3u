@@ -25,7 +25,8 @@
 </channel>
 <channel id="BBCParliament.uk"><display-name>BBC Parliament</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png"/><url>https://tv24.co.uk</url>
 </channel>
-<channel id="BBCRedButton1.uk"><display-name>BBC Red Button 1</display-name><icon src="https://i.imgur.com/JX6txXq.png"/><url>https://tv24.co.uk</url></channel>
+<channel id="BBCRedButton1.uk"><display-name>BBC Red Button 1</display-name><icon src="https://i.imgur.com/JX6txXq.png"/><url>https://tv24.co.uk</url>
+</channel>
 <channel id="BBCThree.uk"><display-name>BBC Three</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png"/><url>https://tv24.co.uk</url>
 </channel>
 <channel id="BBCTwoEngland.uk"><display-name>BBC Two</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"/><url>https://tv24.co.uk</url>
