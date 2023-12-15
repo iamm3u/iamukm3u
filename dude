@@ -1,6 +1,6 @@
 #!/bin/sh
 
-URL="https://raw.githubusercontent.com/iamm3u/iamukm3u/main/epg%20test"
+URL="https://raw.githubusercontent.com/iamm3u/iamukm3u/main/guide.xml"
 DESCRIPTION="UK epg grabber"
 VERSION="1.3"
 
