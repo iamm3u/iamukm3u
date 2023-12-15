@@ -1,62 +1,119 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20231214">
-<channel id="4seven.uk"><display-name>4Seven</display-name><icon src="https://i.imgur.com/Fpaxyop.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="5Action.uk"><display-name>5 Action</display-name><url>https://tv24.co.uk</url></channel>
-<channel id="5Select.uk"><display-name>5SELECT</display-name><url>https://tv24.co.uk</url></channel>
-<channel id="5USA.uk"><display-name>5USA</display-name><icon src="https://i.imgur.com/Pi7so2l.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Alarabiya.ae"><display-name>Al Arabiya</display-name><icon src="https://i.imgur.com/NXFkYFj.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="AlJazeeraEnglish.qa"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="AriseNews.uk"><display-name>ARISE</display-name><icon src="https://i.imgur.com/B5IXKIb.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Babestation.uk"><display-name>Babestation</display-name><icon src="https://i.imgur.com/Rcr0XF0.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="BBCFour.uk"><display-name>BBC Four</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="BBCNews.uk"><display-name>BBC News</display-name><icon src="https://i.imgur.com/vSz2WEp.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="BBCOneEngland.uk"><display-name>BBC One HD (England)</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="BBCOneLondon.uk"><display-name>BBC One London</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="BBCParliament.uk"><display-name>BBC Parliament</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png"/><url>https://tv24.co.uk</url></channel>
+<channel id="4seven.uk"><display-name>4Seven</display-name><icon src="https://i.imgur.com/Fpaxyop.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="5Action.uk"><display-name>5 Action</display-name><url>https://tv24.co.uk</url>
+</channel>
+<channel id="5Select.uk"><display-name>5SELECT</display-name><url>https://tv24.co.uk</url>
+</channel>
+<channel id="5USA.uk"><display-name>5USA</display-name><icon src="https://i.imgur.com/Pi7so2l.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Alarabiya.ae"><display-name>Al Arabiya</display-name><icon src="https://i.imgur.com/NXFkYFj.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="AlJazeeraEnglish.qa"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="AriseNews.uk"><display-name>ARISE</display-name><icon src="https://i.imgur.com/B5IXKIb.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Babestation.uk"><display-name>Babestation</display-name><icon src="https://i.imgur.com/Rcr0XF0.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="BBCFour.uk"><display-name>BBC Four</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="BBCNews.uk"><display-name>BBC News</display-name><icon src="https://i.imgur.com/vSz2WEp.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="BBCOneEngland.uk"><display-name>BBC One HD (England)</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="BBCOneLondon.uk"><display-name>BBC One London</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="BBCParliament.uk"><display-name>BBC Parliament</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png"/><url>https://tv24.co.uk</url>
+</channel>
 <channel id="BBCRedButton1.uk"><display-name>BBC Red Button 1</display-name><icon src="https://i.imgur.com/JX6txXq.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="BBCThree.uk"><display-name>BBC Three</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="BBCTwoEngland.uk"><display-name>BBC Two</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="CBBC.uk"><display-name>CBBC</display-name><icon src="https://i.imgur.com/tk8G4CU.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="CBeebies.uk"><display-name>CBeebies</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="CBSRealityUK.uk"><display-name>CBS Reality</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CBS_Reality.png/512px-CBS_Reality.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Challenge.uk"><display-name>Challenge TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Challenge_2016_%28flat%29.svg/512px-Challenge_2016_%28flat%29.svg.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Channel4.uk"><display-name>Channel 4</display-name><icon src="https://i.imgur.com/B96zmyv.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Channel4Plus1.uk"><display-name>Channel 4 +1</display-name><icon src="https://i.imgur.com/YKR2oAq.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Channel5.uk"><display-name>Channel 5</display-name><icon src="https://i.imgur.com/F3a8mV4.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Channel5Plus1.uk"><display-name>Channel 5+1</display-name><icon src="https://i.imgur.com/nePk8SY.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="CreateandCraft.uk"><display-name>Create and Craft (Freeview)</display-name><icon src="https://i.imgur.com/n65sk4L.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Dave.uk"><display-name>Dave</display-name><icon src="https://i.imgur.com/FgR03oA.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Davejavu.uk"><display-name>Dave Ja Vu</display-name><icon src="https://i.imgur.com/IHDgCft.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="DMAXUK.uk"><display-name>DMAX</display-name><icon src="https://i.imgur.com/CDsoyjN.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Drama.uk"><display-name>Drama</display-name><icon src="https://i.imgur.com/XE0bIne.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="E4.uk"><display-name>E4</display-name><icon src="https://i.imgur.com/22MfjF4.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Film4.uk"><display-name>Film4</display-name><icon src="https://i.imgur.com/MTSgoGI.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="FoodNetworkUK.uk"><display-name>Food Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="GBNews.uk"><display-name>GB News</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="HGTVUK.uk"><display-name>HGTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="IdealWorldTV.uk"><display-name>Ideal World (Freeview)</display-name><icon src="https://i.imgur.com/su6GH7i.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="ITV2.uk"><display-name>ITV2</display-name><icon src="https://i.imgur.com/2BpUK0W.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="ITV3.uk"><display-name>ITV3</display-name><icon src="https://i.imgur.com/JuyM2z5.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="ITV4.uk"><display-name>ITV4</display-name><icon src="https://i.imgur.com/DYI4IA2.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="ITVBe.uk"><display-name>ITV BE</display-name><icon src="https://i.imgur.com/98U4KjU.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="KissTVUK.uk"><display-name>Kiss</display-name><icon src="https://i.imgur.com/cmwa5Wh.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="LondonLive.uk"><display-name>London Live</display-name><icon src="https://i.imgur.com/qwgxxHa.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="More4.uk"><display-name>More 4</display-name><icon src="https://i.imgur.com/cx5YcAU.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="PlanetKnowledge.uk"><display-name>Planet Knowledge</display-name><icon src="https://i.imgur.com/T31Ollu.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Pop.uk"><display-name>Pop</display-name><icon src="https://i.imgur.com/fGUlCY3.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="QuestRedUK.uk"><display-name>Quest Red</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb2411.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="QuestRedUKPlus1.uk"><display-name>Quest Red +1</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb4547.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="QuestUK.uk"><display-name>Quest</display-name><icon src="https://i.imgur.com/9IFXXNc.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="QVCStyleUK.uk"><display-name>QVC Style (Freeview)</display-name><icon src="https://i.imgur.com/6HZlLL3.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Really.uk"><display-name>Really</display-name><icon src="https://i.imgur.com/lY5sFgo.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="SkyArts.uk"><display-name>Sky Arts</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sky_Arts_2020.png/512px-Sky_Arts_2020.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="SkyNews.uk"><display-name>Sky News</display-name><icon src="https://i.imgur.com/mU6s0rO.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="SmithsonianChannelUK.uk"><display-name>Smithsonian Channel SD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="TalkingPicturesTV.uk"><display-name>Talking Pictures TV</display-name><icon src="https://i.imgur.com/S1zoIp7.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="TBNUK.uk"><display-name>TBN UK</display-name><icon src="https://i.imgur.com/vFllwLd.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="TogetherTV.uk"><display-name>Together</display-name><icon src="https://i.imgur.com/wf62HhM.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="XpandedTV.uk"><display-name>xxXpanded TV</display-name><icon src="https://i.imgur.com/p4RR9GM.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="Yesterday.uk"><display-name>Yesterday</display-name><icon src="https://i.imgur.com/EMBQqe7.png"/><url>https://tv24.co.uk</url></channel>
-<channel id="YesterdayPlus1.uk"><display-name>Yesterday +1</display-name><icon src="https://i.imgur.com/agozn8e.png"/><url>https://tv24.co.uk</url></channel>
+<channel id="BBCThree.uk"><display-name>BBC Three</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="BBCTwoEngland.uk"><display-name>BBC Two</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="CBBC.uk"><display-name>CBBC</display-name><icon src="https://i.imgur.com/tk8G4CU.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="CBeebies.uk"><display-name>CBeebies</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="CBSRealityUK.uk"><display-name>CBS Reality</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CBS_Reality.png/512px-CBS_Reality.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Challenge.uk"><display-name>Challenge TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Challenge_2016_%28flat%29.svg/512px-Challenge_2016_%28flat%29.svg.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Channel4.uk"><display-name>Channel 4</display-name><icon src="https://i.imgur.com/B96zmyv.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Channel4Plus1.uk"><display-name>Channel 4 +1</display-name><icon src="https://i.imgur.com/YKR2oAq.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Channel5.uk"><display-name>Channel 5</display-name><icon src="https://i.imgur.com/F3a8mV4.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Channel5Plus1.uk"><display-name>Channel 5+1</display-name><icon src="https://i.imgur.com/nePk8SY.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="CreateandCraft.uk"><display-name>Create and Craft (Freeview)</display-name><icon src="https://i.imgur.com/n65sk4L.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Dave.uk"><display-name>Dave</display-name><icon src="https://i.imgur.com/FgR03oA.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Davejavu.uk"><display-name>Dave Ja Vu</display-name><icon src="https://i.imgur.com/IHDgCft.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="DMAXUK.uk"><display-name>DMAX</display-name><icon src="https://i.imgur.com/CDsoyjN.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Drama.uk"><display-name>Drama</display-name><icon src="https://i.imgur.com/XE0bIne.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="E4.uk"><display-name>E4</display-name><icon src="https://i.imgur.com/22MfjF4.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Film4.uk"><display-name>Film4</display-name><icon src="https://i.imgur.com/MTSgoGI.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="FoodNetworkUK.uk"><display-name>Food Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="GBNews.uk"><display-name>GB News</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="HGTVUK.uk"><display-name>HGTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="IdealWorldTV.uk"><display-name>Ideal World (Freeview)</display-name><icon src="https://i.imgur.com/su6GH7i.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="ITV2.uk"><display-name>ITV2</display-name><icon src="https://i.imgur.com/2BpUK0W.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="ITV3.uk"><display-name>ITV3</display-name><icon src="https://i.imgur.com/JuyM2z5.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="ITV4.uk"><display-name>ITV4</display-name><icon src="https://i.imgur.com/DYI4IA2.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="ITVBe.uk"><display-name>ITV BE</display-name><icon src="https://i.imgur.com/98U4KjU.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="KissTVUK.uk"><display-name>Kiss</display-name><icon src="https://i.imgur.com/cmwa5Wh.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="LondonLive.uk"><display-name>London Live</display-name><icon src="https://i.imgur.com/qwgxxHa.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="More4.uk"><display-name>More 4</display-name><icon src="https://i.imgur.com/cx5YcAU.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="PlanetKnowledge.uk"><display-name>Planet Knowledge</display-name><icon src="https://i.imgur.com/T31Ollu.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Pop.uk"><display-name>Pop</display-name><icon src="https://i.imgur.com/fGUlCY3.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="QuestRedUK.uk"><display-name>Quest Red</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb2411.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="QuestRedUKPlus1.uk"><display-name>Quest Red +1</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb4547.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="QuestUK.uk"><display-name>Quest</display-name><icon src="https://i.imgur.com/9IFXXNc.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="QVCStyleUK.uk"><display-name>QVC Style (Freeview)</display-name><icon src="https://i.imgur.com/6HZlLL3.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Really.uk"><display-name>Really</display-name><icon src="https://i.imgur.com/lY5sFgo.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="SkyArts.uk"><display-name>Sky Arts</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sky_Arts_2020.png/512px-Sky_Arts_2020.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="SkyNews.uk"><display-name>Sky News</display-name><icon src="https://i.imgur.com/mU6s0rO.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="SmithsonianChannelUK.uk"><display-name>Smithsonian Channel SD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="TalkingPicturesTV.uk"><display-name>Talking Pictures TV</display-name><icon src="https://i.imgur.com/S1zoIp7.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="TBNUK.uk"><display-name>TBN UK</display-name><icon src="https://i.imgur.com/vFllwLd.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="TogetherTV.uk"><display-name>Together</display-name><icon src="https://i.imgur.com/wf62HhM.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="XpandedTV.uk"><display-name>xxXpanded TV</display-name><icon src="https://i.imgur.com/p4RR9GM.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="Yesterday.uk"><display-name>Yesterday</display-name><icon src="https://i.imgur.com/EMBQqe7.png"/><url>https://tv24.co.uk</url>
+</channel>
+<channel id="YesterdayPlus1.uk"><display-name>Yesterday +1</display-name><icon src="https://i.imgur.com/agozn8e.png"/><url>https://tv24.co.uk</url>
+</channel>
 <programme start="20231214050000 +0000" stop="20231214090000 +0000" channel="4seven.uk"><title lang="en">Teleshopping</title><desc lang="en">Shopping from home.</desc></programme>
 <programme start="20231214090000 +0000" stop="20231214093000 +0000" channel="4seven.uk"><title lang="en">Come Dine with Me</title><desc lang="en">The competition takes place in and around Sheffield where first host chocolate shop manager - and party girl - Ginnette hopes to win over her guests with a menu of fun family favourites.</desc></programme>
 <programme start="20231214093000 +0000" stop="20231214100000 +0000" channel="4seven.uk"><title lang="en">Come Dine with Me</title><desc lang="en">The competition comes from in and around Sheffield, where the second host, emergency services worker Josh, plans to woo his guests with an evening of high-end nosh and saucy sketching.</desc></programme>
